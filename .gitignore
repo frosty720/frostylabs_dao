@@ -10,3 +10,8 @@
 *.tsbuildinfo
 next-env.d.ts
 /coverage
+
+# agent tooling (never committed)
+.claude/
+.superpowers/
+docs/superpowers/
